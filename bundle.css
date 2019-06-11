@@ -1,0 +1,3 @@
+#loader.svelte-1vruiw{transition:all 0.3s ease-in-out;opacity:1;visibility:visible;position:fixed;height:100vh;width:100%;background:#fff;z-index:90000}.spinner.svelte-1vruiw{width:40px;height:40px;position:absolute;top:calc(50% - 20px);left:calc(50% - 20px);background-color:#333;border-radius:100%;-webkit-animation:svelte-1vruiw-sk-scaleout 1.0s infinite ease-in-out;animation:svelte-1vruiw-sk-scaleout 1.0s infinite ease-in-out}@-webkit-keyframes svelte-1vruiw-sk-scaleout{0%{-webkit-transform:scale(0) }100%{-webkit-transform:scale(1.0);opacity:0}}@keyframes svelte-1vruiw-sk-scaleout{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1.0);transform:scale(1.0);opacity:0}}
+
+/*# sourceMappingURL=bundle.css.map */
